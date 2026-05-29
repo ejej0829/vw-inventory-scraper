@@ -1,0 +1,12 @@
+{
+  "name": "vw-inventory-scraper",
+  "version": "1.0.0",
+  "description": "VW of West Islip inventory scraper using Playwright and CarGurus",
+  "main": "scraper-standalone.js",
+  "scripts": {
+    "scrape": "node scraper-standalone.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
